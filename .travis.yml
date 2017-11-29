@@ -1,1 +1,3 @@
 language: javascript
+notification:
+	email: false
